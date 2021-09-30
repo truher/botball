@@ -1,4 +1,8 @@
-/* Demobot configuration:
+/*
+
+For the botballacademy.org simulator.
+
+Demobot configuration:
 
 sensors (see src/sensors/mappings.ts)
   a0 = arm sensor (note idealness setting)
